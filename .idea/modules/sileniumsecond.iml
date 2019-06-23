@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="sileniumsecond" external.linked.project.path="$MODULE_DIR$/../../sileniumsecond" external.root.project.path="$MODULE_DIR$/../../sileniumsecond" external.system.id="GRADLE" external.system.module.group="TelRan" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../sileniumsecond" rootProjectPath="$MODULE_DIR$/../../sileniumsecond" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../sileniumsecond">
+      <excludeFolder url="file://$MODULE_DIR$/../../sileniumsecond/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../sileniumsecond/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../sileniumsecond/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

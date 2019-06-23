@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_test.iml" group="selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_test_main.iml" group="selenium_test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_test_test.iml" group="selenium_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sileniumsecond_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sileniumsecond_main.iml" group="sileniumsecond" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sileniumsecond_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sileniumsecond_test.iml" group="sileniumsecond" />
     </modules>
   </component>
 </project>

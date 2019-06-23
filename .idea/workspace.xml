@@ -12,6 +12,9 @@
     <ignored path="$PROJECT_DIR$/selenium-web-teste/build/" />
     <ignored path="$PROJECT_DIR$/selenium/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium/build/" />
+    <ignored path="$PROJECT_DIR$/sileniumsecond/.gradle/" />
+    <ignored path="$PROJECT_DIR$/sileniumsecond/build/" />
+    <ignored path="$PROJECT_DIR$/sileniumsecond/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/repeat_tests">
@@ -38,6 +40,9 @@
     <projectState path="$PROJECT_DIR$/selenium_test">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/sileniumsecond">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -51,22 +56,16 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="selenium_test" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repeat_tests/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium-web-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -74,24 +73,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -115,6 +101,8 @@
         <option value="$PROJECT_DIR$/repeat_tests/build.gradle" />
         <option value="$PROJECT_DIR$/selenium-web-tests/build.gradle" />
         <option value="$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" />
+        <option value="$PROJECT_DIR$/sileniumsecond/build.gradle" />
+        <option value="$PROJECT_DIR$/sileniumsecond/src/test/java/OpenTelranTest.java" />
       </list>
     </option>
   </component>
@@ -126,8 +114,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="111" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="110" />
     <option name="y" value="15" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -138,8 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,25 +138,44 @@
             <path>
               <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
-              <item name="repeat_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aner_qa20hw" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-web-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,7 +187,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium-web-tests/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium-web-tests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -198,7 +205,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.OpenGoogleTest">
+    <configuration name="OpenGoogleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/selenium-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.qa20.OpenGoogleTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="OpenGoogleTest.testGoogle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -219,9 +246,28 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.qa20" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa20.OpenGoogleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.OpenGoogleTest" />
         <item itemvalue="Gradle.OpenGoogleTest.testGoogle" />
+        <item itemvalue="Gradle.OpenGoogleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +285,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 35m 09s.xml">
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 12h 03m 22s.xml">
+      <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 04m 29s.xml">
       <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 43m 46s.xml">
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 06m 13s.xml">
       <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 45m 33s.xml">
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 10m 17s.xml">
       <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 12h 11m 03s.xml">
+      <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 12h 11m 04s.xml">
+      <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 12h 11m 28s.xml">
+      <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 13h 52m 56s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 13h 54m 18s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.23 at 19h 15m 14s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -259,27 +326,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="12" width="1400" height="784" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11716418" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.16442953" />
+      <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.16442953" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.047694754" />
+      <window_info id="Favorites" order="6" sideWeight="0.50230414" side_tool="true" weight="0.16442953" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29868227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290938" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32796487" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32796487" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Gradle" weight="0.32910448" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.36456808" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,6 +355,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.32885906" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,11 +364,14 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/selenium_test/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-web-teste/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/selenium_test/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/selenium-web-teste/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/repeat_tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -309,30 +380,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repeat_tests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sileniumsecond/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/sileniumsecond/src/test/java/OpenTelranTest.java" />
     <entry file="file://$PROJECT_DIR$/selenium-web-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -388,7 +450,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>selenium|selenium-web-tests</last-edited>
+          <last-edited>selenium-web-tests.main</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

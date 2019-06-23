@@ -14,6 +14,8 @@
       <module name="selenium_test" target="1.10" />
       <module name="selenium_test_main" target="1.8" />
       <module name="selenium_test_test" target="1.8" />
+      <module name="sileniumsecond_main" target="1.10" />
+      <module name="sileniumsecond_test" target="1.10" />
     </bytecodeTargetLevel>
   </component>
 </project>

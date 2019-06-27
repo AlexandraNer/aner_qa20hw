@@ -16,6 +16,12 @@
       <module name="selenium_test_test" target="1.8" />
       <module name="sileniumsecond_main" target="1.10" />
       <module name="sileniumsecond_test" target="1.10" />
+      <module name="telRan-repeat_tests_main" target="1.8" />
+      <module name="telRan-repeat_tests_test" target="1.8" />
+      <module name="telran-selenium_main" target="1.10" />
+      <module name="telran-selenium_test" target="1.10" />
+      <module name="telRan.selenium-web-tests.main" target="1.8" />
+      <module name="telRan.selenium-web-tests.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

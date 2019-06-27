@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat_tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat_tests_main.iml" group="repeat_tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat_tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat_tests_test.iml" group="repeat_tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium.iml" group="selenium" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_main.iml" group="selenium" />
@@ -16,6 +15,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_test_test.iml" group="selenium_test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sileniumsecond_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sileniumsecond_main.iml" group="sileniumsecond" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sileniumsecond_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sileniumsecond_test.iml" group="sileniumsecond" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan-repeat_tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan-repeat_tests_main.iml" group="repeat_tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan-repeat_tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan-repeat_tests_test.iml" group="repeat_tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan.selenium-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan.selenium-web-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan.selenium-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan.selenium-web-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-selenium_main.iml" group="selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-selenium_test.iml" group="selenium" />
     </modules>
   </component>
 </project>
